@@ -1,0 +1,60 @@
+body{
+	height: 100%;
+	width: 99%;
+}
+
+
+.top{
+	height: 10%;
+	width: 100%;
+	border-bottom: solid black 3px;
+}
+h1, h2{
+	text-align: center;
+	font-size: 1.5em;
+}
+h1{
+	font-variant: small-caps;
+	font-size: 2em;
+}
+
+h3{
+	color: #847A7A;
+	font-size: 1.5em;
+	font-variant: small-caps; 
+}
+
+h4{
+	font-size: 1.1em;
+	margin-top: -15px;
+}
+h4 span{
+	font-weight: normal;
+}
+
+
+div > p, ul{
+	margin-top: -15px;
+}
+
+
+
+.left{
+	height: 90%;
+	width: 33%;
+	float: left;
+}
+.left_module{
+	padding-left: 10%;
+	margin-bottom: 7%;
+}
+
+.right{
+	height: 90%;
+	width: 66%;
+	float: right;
+}
+.right_module{
+	padding-left: 5%;
+	margin-bottom: 7%;
+}
