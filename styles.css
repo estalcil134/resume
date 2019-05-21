@@ -19,7 +19,8 @@ h1{
 }
 
 h3{
-	color: #847A7A;
+	/*color: #847A7A;*/
+	color: blue;
 	font-size: 1.5em;
 	font-variant: small-caps; 
 }
@@ -57,4 +58,9 @@ div > p, ul{
 .right_module{
 	padding-left: 5%;
 	margin-bottom: 7%;
+}
+
+.projects p, .experience p{
+	margin-top: -20px;
+	margin-bottom: 30px;
 }
